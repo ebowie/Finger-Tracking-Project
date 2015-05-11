@@ -1,0 +1,36 @@
+notes:
+
+hello my is eric bowers and my partners name is danial zaliek
+
+today, our project proposal will be on index finger imaging tracking
+
+before i get in to the goal of the project who has heard of the leapmotion
+
+next slide
+
+basically the leap motion can track all ten of your finger to do multple thing are your computer
+
+show video
+
+show what the leapmotion looks like 
+
+so reason why i showed you this leap motion is bc we are going to do a smaller version of motion 
+by tracking only using the index finger 
+
+to help us on this project we will you a kinect or web cam
+
+after that we will create a algorthim that will track a index finger
+
+and produces some sort of image after words
+
+here is a rough idea how its supose to work
+
+next slide
+
+show orginal video
+
+tell what the steps 
+
+get go at the after video 
+
+now my partner will give example that this can be done
